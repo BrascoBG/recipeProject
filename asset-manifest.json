@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recipeProject/static/css/main.3d8e1cdb.chunk.css",
+    "main.js": "/recipeProject/static/js/main.a8374545.chunk.js",
+    "main.js.map": "/recipeProject/static/js/main.a8374545.chunk.js.map",
+    "runtime-main.js": "/recipeProject/static/js/runtime-main.e9714a19.js",
+    "runtime-main.js.map": "/recipeProject/static/js/runtime-main.e9714a19.js.map",
+    "static/js/2.76e5d01a.chunk.js": "/recipeProject/static/js/2.76e5d01a.chunk.js",
+    "static/js/2.76e5d01a.chunk.js.map": "/recipeProject/static/js/2.76e5d01a.chunk.js.map",
+    "index.html": "/recipeProject/index.html",
+    "precache-manifest.3fa726ae9dc9236ad08ed1011e43ec6b.js": "/recipeProject/precache-manifest.3fa726ae9dc9236ad08ed1011e43ec6b.js",
+    "service-worker.js": "/recipeProject/service-worker.js",
+    "static/css/main.3d8e1cdb.chunk.css.map": "/recipeProject/static/css/main.3d8e1cdb.chunk.css.map",
+    "static/js/2.76e5d01a.chunk.js.LICENSE.txt": "/recipeProject/static/js/2.76e5d01a.chunk.js.LICENSE.txt",
+    "static/media/lobster.css": "/recipeProject/static/media/lobster-webfont.dbf5d981.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9714a19.js",
+    "static/js/2.76e5d01a.chunk.js",
+    "static/css/main.3d8e1cdb.chunk.css",
+    "static/js/main.a8374545.chunk.js"
+  ]
+}
